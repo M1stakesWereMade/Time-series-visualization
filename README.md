@@ -150,7 +150,7 @@ def plot_plotly_series(time, series, start=0, end=None, title="Plot", color="blu
 После того как все зависимости установлены, запустите скрипт:
 
 ```bash
-python time_series_plot.py
+time_series_visualization.py
 ```
 Код создаст несколько графиков для различных типов данных и сохранит их в виде изображений.
 
